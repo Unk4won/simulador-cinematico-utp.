@@ -14,7 +14,7 @@ Simulador web interactivo desarrollado para calcular automatizadamente la veloci
 
 ## 🚀 Instalación y Despliegue
 Este proyecto utiliza una arquitectura **Client-Side plana** (sin dependencias ni empaquetadores).
-1. Clona este repositorio: `git clone https://github.com/tu-usuario/simulador-cinematico.git`
+1. Clona este repositorio: `git clone https://github.com/Unk4won/simulador-cinematico.git`
 2. Navega al directorio del proyecto.
 3. Abre el archivo `index.html` en cualquier navegador web moderno. No requiere levantar un servidor local.
 
